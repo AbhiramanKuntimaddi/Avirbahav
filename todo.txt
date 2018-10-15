@@ -1,0 +1,6 @@
+- Add Cards in About us page
+- Change the text and font size in style.css
+- Take image ref from Mama
+- http://www.eta-engg.com/ - ref1
+- http://www.richa.in/engineering-procurement-construction-epc/ - ref2
+
